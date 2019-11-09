@@ -3,4 +3,17 @@
     <string name="moderator">"Moderator"</string>
     <string name="guest">Be anonymous</string>
 
+
+    <string name="appbar_scrolling_view_behavior" />
+
+    <string-array name="faculty">
+        <item>ANON</item>
+        <item>FSKTM</item>
+        <item>FKMP</item>
+        <item>FKAAS</item>
+        <item>FPTP</item>
+        <item>FPTV</item>
+        <item>FKEE</item>
+    </string-array>
+
 </resources>
